@@ -1,6 +1,4 @@
 -- USERS TABLE -----------------------------------
-
-DROP TABLE Users;
 CREATE TABLE Users (
     ID int NOT NULL PRIMARY KEY,
     Login varchar2(255) NOT NULL,
