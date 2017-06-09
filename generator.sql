@@ -1,6 +1,6 @@
 exec words_fill(1000);
 exec courses_fill(1000);
-exec categories_fill(1000);
+exec categories_fill(3000);
 exec realisations_fill(1000);
 
 -- GENERATOR for Words table --------------------------------------------------
